@@ -1,5 +1,5 @@
 //const BASE_URL = "http://localhost:4000/api/v1"
-const BASE_URL = "studynotion-backend-eight.vercel.app"
+const BASE_URL = "studynotionproject-backend.vercel.app"
 
 // AUTH ENDPOINTS
 export const endpoints = {
